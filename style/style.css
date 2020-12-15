@@ -56,8 +56,6 @@ body{
 .hr, .mn, .sc{
     display: flex;
     justify-content: center;
-    align-items: center;
-    position: absolute;
     border: 50%;
 }
 
@@ -66,7 +64,7 @@ body{
     position: absolute;
     width: 8px;
     height: 80px;
-    background: #ddda31;
+    background: #f36666;
     z-index: 10;
     border-radius: 6px 6px 0 0;
 }
